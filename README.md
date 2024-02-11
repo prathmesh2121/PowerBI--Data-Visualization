@@ -4,10 +4,10 @@ This repository contains the Power BI dashboard for tracking Walmart sales data.
 
 ## Dashboard Preview
 
-![Snapshot 1](walmart-snapshot1.png)
+![Snapshot 1](Snapshots/walmart-snapshot1.png)
 *Description of snapshot 1.*
 
-![Snapshot 2](walmart-snapshot2.png)
+![Snapshot 2](Snapshots/walmart-snapshot2.png)
 *Description of snapshot 2.*
 
 ## How to Use
